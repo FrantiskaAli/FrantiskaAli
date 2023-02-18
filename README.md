@@ -17,5 +17,5 @@ Thats why I learn some more with ![Codecademy](https://img.shields.io/badge/Code
 - 👯 I’m looking to collaborate on any Front-end web projects!
 - 🤔 I’m looking for help with learning SQL and PHP.
 - 📫 How to reach me: [Email me!](mailto:tiskarechk@gmail.com)
-
+- :eyes: See my [portfolio!](https://frantiskaali.github.io/MyPortfolio/)
 
