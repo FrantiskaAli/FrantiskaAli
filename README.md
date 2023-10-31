@@ -15,9 +15,10 @@ Thats why I learn some more with ![Codecademy](https://img.shields.io/badge/Code
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### ...and more
+- :grinning: I am crazy for games and nonsense ,even made a little tap game about my bootcamp experience [PLAY](https://my-game-rouge.vercel.app/) :grinning:
 - 🌱 I’m currently finishing EdX Front-end developers Bootcamp!
 - 👯 I’m looking to collaborate on any Front-end web projects!
-- 🤔 I’m looking for help with learning SQL and PHP.
+- 🤔 I’m looking for help with learning Python.
 - 📫 How to reach me: [Email me!](mailto:tiskarechk@gmail.com)
 - :eyes: See my [portfolio!](https://frantiskaali.github.io/fran-portfolio-react/)
 
